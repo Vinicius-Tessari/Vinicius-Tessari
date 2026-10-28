@@ -1,61 +1,78 @@
-<!-- README de perfil: publicar no repositório público Vinicius-Tessari/Vinicius-Tessari -->
+<!--
+README de perfil para github.com/Vinicius-Tessari
+Para as animações funcionarem, envie a pasta assets/ junto com este README.md.
+Não é necessário instalar nada: o GitHub exibe GIFs diretamente no Markdown.
+-->
 
 <div align="center">
+  <img src="./assets/cabecalho-animado.gif" width="100%" alt="Banner animado: Vinicius Tessari, desenvolvimento web, automação e dados" />
 
-# Olá! Eu sou Vinicius Tessari 👋
+  <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Desenvolvimento+Web+%7C+Automa%C3%A7%C3%A3o;JavaScript+%7C+Python+%7C+SQL;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Animação apresentando áreas de interesse" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=950&color=56DDD5&center=true&vCenter=true&width=940&height=55&lines=Desenvolvimento+Web+%7C+Automa%C3%A7%C3%B5es;JavaScript+%7C+PHP+%7C+Python;SQL+%7C+MariaDB+%7C+MySQL;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Letreiro animado: desenvolvimento web, JavaScript, PHP, Python, SQL e MariaDB" />
 
-**Desenvolvimento de software • Aplicações web • Automações**
+  <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Vinicius--Tessari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Tessari)
-![Visitantes](https://komarev.com/ghpvc/?username=Vinicius-Tessari&style=for-the-badge&color=238636&label=VISITAS)
+  <strong>Desenvolvimento de software • Aplicações web • Automação • Bancos de dados</strong>
 
+  <br /><br />
+
+  <a href="https://github.com/Vinicius-Tessari?tab=repositories">Explorar meus repositórios</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Vinicius-Tessari">Meu GitHub</a>
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Gosto de criar soluções práticas com programação: interfaces web, automações e sistemas que resolvem problemas do dia a dia. Aqui você encontra projetos, experimentos e registros da minha evolução como desenvolvedor.
-
-- 💻 **Foco:** desenvolvimento web e automação de processos.
-- 🧩 **Interesses:** lógica de programação, integração de sistemas e bancos de dados.
-- 🚀 **Objetivo:** desenvolver projetos cada vez mais completos, claros e úteis.
-
-## 🛠️ Tecnologias
+Desenvolvo aplicações e automações voltadas à solução de problemas reais. Tenho interesse especial em **desenvolvimento web**, **integração de sistemas** e **bancos de dados**. Meu objetivo é transformar ideias em projetos funcionais, organizados e que possam evoluir com o tempo.
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode,flutter,dart&theme=dark&perline=11" alt="Ícones de tecnologias: HTML, CSS, JavaScript, Python, Java, MySQL, Git, GitHub, VS Code, Flutter e Dart" />
-
+  <img src="./assets/terminal-animado.gif" width="100%" alt="Terminal animado mostrando exemplos de PHP, SQL, MariaDB, JavaScript e Git" />
 </div>
 
-## 📁 Projetos em destaque
+## Tecnologias e ferramentas
 
-| Projeto | O que você encontra |
+<div align="center">
+  <img src="./assets/tecnologias-animadas.gif" width="100%" alt="Painel animado com HTML, CSS, JavaScript, PHP, Python, Java, SQL, MariaDB, MySQL, Git, GitHub, VS Code, Flutter e Dart" />
+</div>
+
+**Front-end:** HTML, CSS e JavaScript  
+**Back-end:** PHP, Python e Java  
+**Bancos de dados:** SQL, MariaDB e MySQL  
+**Ferramentas e outras tecnologias:** Git, GitHub, VS Code, Flutter e Dart
+
+## Projetos em destaque
+
+| Projeto | Descrição |
 | :--- | :--- |
-| 🤖 [Bot de envio de agendamentos](https://github.com/Vinicius-Tessari/Bot-de-envio-de-agendamentos) | Automação em Python para consultar agendamentos e enviar mensagens. |
-| 🎮 [Jogo da Velha em Flutter](https://github.com/Vinicius-Tessari/Jogo-da-Velha-Flutter) | Jogo para dispositivos móveis feito com Flutter e Dart. |
-| 🎲 [Sorteador](https://github.com/Vinicius-Tessari/SORTEADOR) | Projeto de sorteio desenvolvido em JavaScript. |
-| 🌐 [Site de venda de suplementos](https://github.com/Vinicius-Tessari/Site-Venda-Suplementos) | Projeto web com JavaScript. |
+| [Bot de envio de agendamentos](https://github.com/Vinicius-Tessari/Bot-de-envio-de-agendamentos) | Automação em Python para trabalhar com agendamentos. |
+| [Jogo da Velha — Flutter](https://github.com/Vinicius-Tessari/Jogo-da-Velha-Flutter) | Aplicação mobile construída com Flutter e Dart. |
+| [SORTEADOR](https://github.com/Vinicius-Tessari/SORTEADOR) | Projeto de sorteio desenvolvido em JavaScript. |
+| [Site de venda de suplementos](https://github.com/Vinicius-Tessari/Site-Venda-Suplementos) | Experiência com páginas web e JavaScript. |
+| [Desenvolvimento Web](https://github.com/Vinicius-Tessari/Desenvolvimento-Web) | Estudos e exemplos práticos de HTML, CSS e JavaScript. |
 
-## 📊 Minha atividade no GitHub
+## Atividade no GitHub
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Vinicius-Tessari&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Estatísticas de contribuições do GitHub" />
 
-<img src="https://streak-stats.demolab.com?user=Vinicius-Tessari&theme=github-dark-blue&hide_border=true&locale=pt_BR" height="190" alt="Estatísticas de sequência de contribuições no GitHub" />
+  <br />
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=1000&color=A9A0FF&center=true&vCenter=true&width=900&height=45&lines=Novos+desafios%2C+novos+commits;Front-end+%2B+back-end+%2B+dados;Construindo+e+aprendendo+todos+os+dias" alt="Letreiro animado sobre projetos e aprendizado contínuo" />
 </div>
-
-> Os cartões e os ícones acima são carregados por serviços externos. Se algum deles ficar indisponível, os demais elementos do perfil continuam funcionando.
 
 ---
 
 <div align="center">
+  <strong>Obrigado pela visita!</strong>
 
-**Obrigado por visitar meu perfil!** 🚀
+  <br />
 
-[Ver todos os repositórios](https://github.com/Vinicius-Tessari?tab=repositories)
+  <sub>Continue explorando. Os projetos estão em constante evolução.</sub>
 
+  <br /><br />
+
+  <a href="https://github.com/Vinicius-Tessari?tab=repositories">Ver todos os repositórios</a>
 </div>
